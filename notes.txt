@@ -1,0 +1,24 @@
+Javascript looping
+=> While looping
+*** It's loop through a block of code as long as the specified condition is true***
+Syntax:
+while(condition)
+{
+    //block of code (execute until condition is true)
+}
+Examples:
+var countdown = 10;
+var i =0;
+while(i<countdown)
+{
+    console.log(countdown);
+    countdown--;
+}
+****** End *******
+=> Do while loop
+***execute the body first then checks the condition statisfies or not
+Syntax:
+do(
+    // block of code
+) while(condition)
+Example:
