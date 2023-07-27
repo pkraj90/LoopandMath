@@ -5,6 +5,6 @@ var i =0;
 while(i < countdown)
 {
  console.log(countdown);
- countdown--;
+ countdown++;
 }
 //-------------------------//
