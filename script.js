@@ -1,7 +1,7 @@
-var countdown = 9;
-var i = 0;
+var countdown = 10;
+var i =0;
 while(i < countdown)
 {
-    console.log(countdown);
-    countdown++;
+ console.log(countdown);
+ countdown--;
 }
