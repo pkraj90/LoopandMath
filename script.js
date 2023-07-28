@@ -8,3 +8,9 @@ while(i < countdown)
  countdown++;
 }
 //-------------------------//
+
+//const e = new Date();
+//console.log(e.getDay());
+
+const e = new Date();
+console.log(e.getDay());
